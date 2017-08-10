@@ -25,7 +25,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.gridsum.tvd.UdafCountDistinct</mainClass>
+                            <mainClass>count.distinct.UdafCountDistinct</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>

@@ -1,4 +1,4 @@
-package com.gridsum.tvd;
+package count.distinct;
 
 import org.apache.hadoop.hive.ql.exec.UDF;
 
